@@ -4,4 +4,6 @@ echo "Hello World";
 
 echo "estamos em 2021";
 
-eho "Alterando o arquivo remotamente";
+echo "Alterando o arquivo remotamente";
+
+echo "Vamos mudar tudo kkkk..."
