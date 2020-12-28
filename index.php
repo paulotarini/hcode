@@ -1,7 +1,5 @@
 <?php
 
-echo "Hello World";
+echo "Olá Mundo 123";
 
-echo "estamos em 2021";
-
-eho "Alterando o arquivo remotamente";
+echo "teste";
